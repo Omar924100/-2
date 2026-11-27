@@ -1,0 +1,7 @@
+.env
+flag.txt
+jar
+jar2
+*.cookie
+*.log
+writeup.md
